@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Corner-case-tech-reactJS/static/css/main.f07b9f5f.css",
+    "main.js": "/Corner-case-tech-reactJS/static/js/main.64582046.js",
+    "static/js/787.d79b1390.chunk.js": "/Corner-case-tech-reactJS/static/js/787.d79b1390.chunk.js",
+    "static/media/plus.png": "/Corner-case-tech-reactJS/static/media/plus.7e599da665ea09ed6d02.png",
+    "static/media/minus.png": "/Corner-case-tech-reactJS/static/media/minus.d5a22d2a49d39c4a461c.png",
+    "static/media/switch.png": "/Corner-case-tech-reactJS/static/media/switch.659e80a3990f215c1c4d.png",
+    "static/media/back-arrow.png": "/Corner-case-tech-reactJS/static/media/back-arrow.43695ba6b652e0a46517.png",
+    "index.html": "/Corner-case-tech-reactJS/index.html",
+    "main.f07b9f5f.css.map": "/Corner-case-tech-reactJS/static/css/main.f07b9f5f.css.map",
+    "main.64582046.js.map": "/Corner-case-tech-reactJS/static/js/main.64582046.js.map",
+    "787.d79b1390.chunk.js.map": "/Corner-case-tech-reactJS/static/js/787.d79b1390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f07b9f5f.css",
+    "static/js/main.64582046.js"
+  ]
+}
